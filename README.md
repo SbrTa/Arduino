@@ -2,6 +2,7 @@
 
 A smart device based on Arduino and written in C/C++. It is a smart device for daily use at home and developed to work as daily assistant.
 
+
 Specification:
   
   o	Security: Smart security feature for your room based on PIR motion sensor and ultrasonic distance sensor. Just leave it at your table and it will alarm u if someone enters your room.
@@ -12,5 +13,7 @@ Specification:
   
   o	Calculator: A simple calculator for simple addition, subtraction, multiplication and division.
 
+
 Future work:
-    It’s a demo device and still under development. We have plan to add some arcade game. At this stage we are using keypad to navigate, but we will move to touch screen soon. 
+
+It’s a demo device and still under development. We have plan to add some arcade game. At this stage we are using keypad to navigate, but we will move to touch screen soon. 
