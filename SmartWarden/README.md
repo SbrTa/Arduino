@@ -1,4 +1,4 @@
-Smart Warden
+# Smart Warden
 
 A smart device based on Arduino and written in C/C++. It is a smart device for daily use at home and developed to work as daily assistant.
 
