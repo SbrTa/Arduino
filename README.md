@@ -19,3 +19,6 @@ Specification:
 Future work:
 
 It’s a demo device and still under development. We have plan to add some arcade game. At this stage we are using keypad to navigate, but we will move to touch screen soon. 
+
+
+@MBSTU
